@@ -2,6 +2,11 @@
 h1{
 	text-align:center;
 }
+table{
+	border:1px solid black;
+	spacing:1px;
+	padding:1px;
+}
 .l{
 	text-align:left;
 }
@@ -10,4 +15,8 @@ h1{
 }
 .r{
 	text-align:right;
+}
+.middle{
+	width:100%;
+	text-align:center;
 }
